@@ -6,3 +6,4 @@ https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/b581f6374
 Aula 2
 https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/53eac4c9897145146d23314ddb42a9e070276c52/aula2.php
 
+Variáveis: https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/a364b88f98d8a38121bced319590dff52fc0e235/variav%C3%A9isphp.txt
