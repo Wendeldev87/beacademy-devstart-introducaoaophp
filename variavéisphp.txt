@@ -3,4 +3,8 @@
 $nome = "Wendel";
 $bebida = "Café";
 
+$bebida = "Agua";
+
+$bebida = "Agua com Gás";
+
 echo " Meu nome é " . $nome. " eu gosto de " . $bebida;
