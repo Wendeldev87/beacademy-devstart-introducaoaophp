@@ -1,0 +1,6 @@
+<?php
+
+$nome = "Wendel";
+$bebida = "Café";
+
+echo " Meu nome é " . $nome. " eu gosto de " . $bebida;
