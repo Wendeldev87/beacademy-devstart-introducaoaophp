@@ -1,0 +1,17 @@
+<?php
+
+$nome = "Wendel";
+$sobrenome = "Duarte";
+$idade = 34;
+$cidade = "Goiania";
+
+$nome2 = "Joao";
+$nome2 = "Alves"; //Joao Alves
+
+echo $nome . " " . $sobrenome;
+
+echo "Eu me chamo " . $nome. " " . $sobrenome. " tenho" . $idade . " anos e moro em " . $cidade;
+
+echo "<br>";
+
+echo "Eu me chamo {$nome}  {$sobrenome}, tenho {$idade} anos e moro em ${Cidade}";
