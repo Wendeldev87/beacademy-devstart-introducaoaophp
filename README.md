@@ -11,3 +11,6 @@ Variáveis: https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/bl
 Regras de Variáveis: https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/8f91df9a27cf9e0459da19b573f4a87e71d71b90/regrasdevariaveis.txt
 
 Constantes: https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/8f91df9a27cf9e0459da19b573f4a87e71d71b90/constantes.txt
+
+Aula 3
+https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/fc8a350e2aed22e6b045c354ee5dbc086ea77ef7/index.txt
