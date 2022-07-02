@@ -15,4 +15,6 @@ Constantes: https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/bl
 Aula 3
 https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/fc8a350e2aed22e6b045c354ee5dbc086ea77ef7/index.txt
 
-concatenação: https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/dcf69fb6d1ee5e82c00ca3d7892638f033bbe3b3/concat.txt
+Concatenação: https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/dcf69fb6d1ee5e82c00ca3d7892638f033bbe3b3/concat.txt
+
+Operadores relacionais: https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/a08077b146f3b6c7a9252a1a70bb426814e451cf/operadoresrelacionais.txt
