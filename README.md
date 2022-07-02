@@ -18,3 +18,7 @@ https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/fc8a350e2
 Concatenação: https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/dcf69fb6d1ee5e82c00ca3d7892638f033bbe3b3/concat.txt
 
 Operadores relacionais: https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/a08077b146f3b6c7a9252a1a70bb426814e451cf/operadoresrelacionais.txt
+
+Ternário: https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/9abd7183bda50746c79d2562e798f24159b3c50d/ternario.txtc
+
+Exercício ternário: https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/9abd7183bda50746c79d2562e798f24159b3c50d/ternario.php
