@@ -1,0 +1,25 @@
+<?php
+
+//camelCase
+$nomeCompletoDoAluno = " Wendel da Costa Duarte";
+$nome_completo_do_aluno = "";
+
+$nome123 = "";
+
+
+
+$tenhoEmprego = true; //booleando
+$tenhoEmprego = false;
+
+$numeroCasa = 2006;  //inteiro
+$cpf = "012.123.123-12";
+$saldoBancario = 2569.89;  //float
+
+$nome = "Wendel";  //string
+$bebida = "Café";
+
+$bebida = "Agua";
+
+$bebida = "Agua com Gás";
+
+echo " Meu nome é " . $nome. " eu gosto de " . $bebida;
