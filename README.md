@@ -22,3 +22,8 @@ Operadores relacionais: https://github.com/Wendeldev87/beacademy-devstart-introd
 Ternário: https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/9abd7183bda50746c79d2562e798f24159b3c50d/ternario.txtc
 
 Exercício ternário: https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/9abd7183bda50746c79d2562e798f24159b3c50d/ternario.php
+
+Aula 4:
+https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/861d51ff76c9d170b7698fdf4c21b60aa662dd39/se.php
+hhttps://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/861d51ff76c9d170b7698fdf4c21b60aa662dd39/se-senao-se.php
+ttps://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/861d51ff76c9d170b7698fdf4c21b60aa662dd39/se-senao.php
