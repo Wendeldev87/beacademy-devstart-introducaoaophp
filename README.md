@@ -31,3 +31,6 @@ https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/861d51ff7
 https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/861d51ff76c9d170b7698fdf4c21b60aa662dd39/se-senao.php
 
 https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/2b64e9a1c292b39f008d0aac882d309b25ef0d60/match.php
+
+Aula 5:
+https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/e459d0046d40b4cb2fe2caca47ec0ebc6c35b6db/enquanto.php
