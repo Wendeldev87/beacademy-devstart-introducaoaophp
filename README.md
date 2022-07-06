@@ -1,5 +1,34 @@
 # beacademy-devstart-introducaoaophp
 
+
+Lista de Exercícios de Introdução ao PHP
+Tabela de Conteúdos
+Sobre o projeto
+Exercícios
+Licença
+📃 Sobre o projeto
+O projeto é composto de uma lista contendo a resolução de exercícios de introdução ao php, cuja criação foi proposta durante o programa DevStart Paylivre 🚀
+
+🎯 Exercícios
+Resoluções	Descrição
+Exercício 1	Calculadora Simples
+Exercício 2	Data de Nascimento
+Exercício 3	Tabela de Alunos
+Exercício 4	Tabela de Produtos
+🛠️Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
+
+HTML
+CSS
+Bootstrap
+PHP
+📝Licença
+Feito com 💙 por Wendel Duarte
+
+About
+Repositório referente ao módulo de Introdução ao PHP da formação DevStart Paylivre.
+
+
 Aula 1
 https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/b581f63743f4e48b2fc0bbe7b922af3a13b91f32/index.php
 
@@ -33,4 +62,7 @@ https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/861d51ff7
 https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/2b64e9a1c292b39f008d0aac882d309b25ef0d60/match.php
 
 Aula 5:
+
 https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/e459d0046d40b4cb2fe2caca47ec0ebc6c35b6db/enquanto.php
+
+
