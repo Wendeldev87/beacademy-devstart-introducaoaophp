@@ -11,10 +11,15 @@ O projeto é composto de uma lista contendo a resolução de exercícios de intr
 
 🎯 Exercícios
 Resoluções	Descrição
+
 Exercício 1	Calculadora Simples
+
 Exercício 2	Data de Nascimento
+
 Exercício 3	Tabela de Alunos
+
 Exercício 4	Tabela de Produtos
+
 🛠️Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 
