@@ -13,9 +13,7 @@ O projeto é composto de uma lista contendo a resolução de exercícios de intr
 Resoluções	Descrição
 
 Exercício 1	Calculadora Simples
-[aula2.php](./aula2.php)
-https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/53eac4c9897145146d23314ddb42a9e070276c52/aula2.php
-
+[Exercicio 1](./aula2.php)
 Exercício 2	Data de Nascimento
 
 Exercício 3	Tabela de Alunos
