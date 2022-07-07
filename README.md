@@ -13,6 +13,7 @@ O projeto é composto de uma lista contendo a resolução de exercícios de intr
 Resoluções	Descrição
 
 Exercício 1	Calculadora Simples
+
 [Exercicio 1](./aula2.php)
 
 Exercício 2	Data de Nascimento
