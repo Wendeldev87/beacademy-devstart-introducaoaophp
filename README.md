@@ -18,7 +18,7 @@ Exercício 1	Calculadora Simples
 
 Exercício 2	Dados
 
-[Exercício 2](
+[Exercício 2](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/beacademy-devstart-gitegithub/dados.php)
 
 Exercício 3	Tabela de Alunos
 
