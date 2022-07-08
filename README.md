@@ -67,6 +67,8 @@ Aula 5
 
 [Exercício while](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/0e57bfdc4ec592886d3851cfc662de5918f5f55c/exerc%C3%ADcio-while.php)
 
+[do-while](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/beacademy-devstart-gitegithub/do-while.php)
+
 🛠️Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 
