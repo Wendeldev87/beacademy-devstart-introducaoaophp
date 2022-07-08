@@ -24,6 +24,8 @@ Exercício 3	Tabela de Alunos
 
 Exercício 4	Tabela de Produtos
 
+[Exercício 4](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/beacademy-devstart-gitegithub/produtos.php)
+
 #Todas as aulas do curso de introdução ao php do Devstart Paylivre
 
 
