@@ -60,7 +60,7 @@ Aula 5:
 
 https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/e459d0046d40b4cb2fe2caca47ec0ebc6c35b6db/enquanto.php
 
-[exercício while](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/0e57bfdc4ec592886d3851cfc662de5918f5f55c/exerc%C3%ADcio-while.php)
+[Exercício while](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/0e57bfdc4ec592886d3851cfc662de5918f5f55c/exerc%C3%ADcio-while.php)
 
 🛠️Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
