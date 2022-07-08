@@ -27,38 +27,37 @@ Exercício 4	Tabela de Produtos
 
 [Aula 1](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/b581f63743f4e48b2fc0bbe7b922af3a13b91f32/index.php)
 
-Aula 2
-[Aula https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/53eac4c9897145146d23314ddb42a9e070276c52/aula2.php
+[Aula 2](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/53eac4c9897145146d23314ddb42a9e070276c52/aula2.php)
 
-Variáveis: https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/2e322760a4975635e6516c2bdb266bb19a814b1c/variav%C3%A9isphp.txt
+[Variáveis](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/2e322760a4975635e6516c2bdb266bb19a814b1c/variav%C3%A9isphp.txt)
 
-Regras de Variáveis: https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/8f91df9a27cf9e0459da19b573f4a87e71d71b90/regrasdevariaveis.txt
+[Regras de Variáveis](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/8f91df9a27cf9e0459da19b573f4a87e71d71b90/regrasdevariaveis.txt)
 
-Constantes: https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/8f91df9a27cf9e0459da19b573f4a87e71d71b90/constantes.txt
+[Constantes](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/8f91df9a27cf9e0459da19b573f4a87e71d71b90/constantes.txt)
 
-Aula 3
-https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/fc8a350e2aed22e6b045c354ee5dbc086ea77ef7/index.txt
+[Aula 3](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/fc8a350e2aed22e6b045c354ee5dbc086ea77ef7/index.txt)
 
-Concatenação: https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/dcf69fb6d1ee5e82c00ca3d7892638f033bbe3b3/concat.txt
+[Concatenação](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/dcf69fb6d1ee5e82c00ca3d7892638f033bbe3b3/concat.txt)
 
-Operadores relacionais: https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/a08077b146f3b6c7a9252a1a70bb426814e451cf/operadoresrelacionais.txt
+[Operadores relacionais](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/a08077b146f3b6c7a9252a1a70bb426814e451cf/operadoresrelacionais.txt)
 
-Ternário: https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/9abd7183bda50746c79d2562e798f24159b3c50d/ternario.txtc
+[Ternário](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/9abd7183bda50746c79d2562e798f24159b3c50d/ternario.txt)
 
-Exercício ternário: https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/9abd7183bda50746c79d2562e798f24159b3c50d/ternario.php
+[Exercício ternário](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/9abd7183bda50746c79d2562e798f24159b3c50d/ternario.php)
 
-Aula 4:
-https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/861d51ff76c9d170b7698fdf4c21b60aa662dd39/se.php
+Aula 4
 
-https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/861d51ff76c9d170b7698fdf4c21b60aa662dd39/se-senao-se.php
+[se](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/861d51ff76c9d170b7698fdf4c21b60aa662dd39/se.php)
 
-https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/861d51ff76c9d170b7698fdf4c21b60aa662dd39/se-senao.php
+[se-senao-se](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/861d51ff76c9d170b7698fdf4c21b60aa662dd39/se-senao-se.php)
 
-https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/2b64e9a1c292b39f008d0aac882d309b25ef0d60/match.php
+[se-senao](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/861d51ff76c9d170b7698fdf4c21b60aa662dd39/se-senao.php)
 
-Aula 5:
+[match](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/2b64e9a1c292b39f008d0aac882d309b25ef0d60/match.php)
 
-https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/e459d0046d40b4cb2fe2caca47ec0ebc6c35b6db/enquanto.php
+Aula 5
+
+[enquanto](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/e459d0046d40b4cb2fe2caca47ec0ebc6c35b6db/enquanto.php)
 
 [Exercício while](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/0e57bfdc4ec592886d3851cfc662de5918f5f55c/exerc%C3%ADcio-while.php)
 
