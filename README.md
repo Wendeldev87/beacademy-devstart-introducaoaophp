@@ -20,6 +20,8 @@ Exercício 2	Data de Nascimento
 
 Exercício 3	Tabela de Alunos
 
+[Exercício 3](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/beacademy-devstart-gitegithub/alunos.php)
+
 Exercício 4	Tabela de Produtos
 
 #Todas as aulas do curso de introdução ao php do Devstart Paylivre
