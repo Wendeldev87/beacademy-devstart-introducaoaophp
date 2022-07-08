@@ -22,18 +22,6 @@ Exercício 3	Tabela de Alunos
 
 Exercício 4	Tabela de Produtos
 
-🛠️Tecnologias
-As seguintes ferramentas foram usadas na construção do projeto:
-
-HTML
-CSS
-Bootstrap
-PHP
-📝Licença
-Feito com 💙 por Wendel Duarte
-
-About
-Repositório referente ao módulo de Introdução ao PHP da formação DevStart Paylivre.
 
 
 Aula 1
@@ -72,4 +60,16 @@ Aula 5:
 
 https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/e459d0046d40b4cb2fe2caca47ec0ebc6c35b6db/enquanto.php
 
+🛠️Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
+
+HTML
+CSS
+Bootstrap
+PHP
+📝Licença
+Feito com 💙 por Wendel Duarte
+
+About
+Repositório referente ao módulo de Introdução ao PHP da formação DevStart Paylivre.
 
