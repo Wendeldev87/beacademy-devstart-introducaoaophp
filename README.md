@@ -16,7 +16,9 @@ Exercício 1	Calculadora Simples
 
 [Exercicio 1](./aula2.php)
 
-Exercício 2	Data de Nascimento
+Exercício 2	Dados
+
+[Exercício 2](
 
 Exercício 3	Tabela de Alunos
 
