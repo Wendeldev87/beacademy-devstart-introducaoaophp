@@ -73,6 +73,8 @@ Aula 6
 
 [Arrays](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/beacademy-devstart-gitegithub/arrays.php)
 
+[Arrays-frutas](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/beacademy-devstart-gitegithub/frutas.php)
+
 
 🛠️Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
