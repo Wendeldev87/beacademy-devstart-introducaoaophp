@@ -28,6 +28,10 @@ Exercício 4	Tabela de Produtos
 
 [Exercício 4](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/beacademy-devstart-gitegithub/produtos.php)
 
+Exercício 5 Bandas
+
+[Exercício 5](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/beacademy-devstart-gitegithub/bandas-exercicio.php)
+
 #Todas as aulas do curso de introdução ao php do Devstart Paylivre
 
 
