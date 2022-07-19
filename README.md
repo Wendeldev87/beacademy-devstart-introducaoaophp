@@ -83,6 +83,9 @@ Aula 6
 
 [bandas-exercicio](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/beacademy-devstart-gitegithub/bandas-exercicio.php)
 
+Aula 7
+
+[dados](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/beacademy-devstart-gitegithub/dados.php)
 ]🛠️Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 
