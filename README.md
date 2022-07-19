@@ -86,7 +86,9 @@ Aula 6
 Aula 7
 
 [dados](https://github.com/Wendeldev87/beacademy-devstart-introducaoaophp/blob/beacademy-devstart-gitegithub/dados.php)
-]🛠️Tecnologias
+
+
+🛠️Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 
 HTML
