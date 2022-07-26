@@ -1,0 +1,12 @@
+<?php
+
+$nome = 'alessandro';
+$sobrenome = 'FEITOZA';
+
+$nome2 = 'chiquim da silva'; //'Chiquim Da Silva'
+
+echo "Nome: " .ucfirst($nome) . PHP_EOL;
+
+echo "Sobrenome: " . ucfirst(strtolower($sobrenome)) . PHP_EOL;
+
+echo "Nome2: " . ucwords($nome2);
